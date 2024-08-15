@@ -5,6 +5,10 @@
     <title>Title</title>
 </head>
 <body>
-<h1>Test PHP</h1>
+<h1>
+    <?php
+    echo 'Hello World';
+    ?>
+</h1>
 </body>
 </html>
